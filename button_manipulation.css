@@ -1,0 +1,40 @@
+html, body {
+	height: 100%;
+	margin:0;
+}
+#full_page {
+	position: fixed;
+	overflow: auto;
+}
+#quote_box {
+	width: auto;
+	height: auto;
+	min-height: 30%
+	min-width: 30%;
+	margin-top: 15%;
+	margin-right:32%;
+	margin-bottom: 40%;
+	margin-left: 30%;
+	border-radius: 10px;
+}
+.eggs {
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom:8px;
+	padding-left: 10px;
+	text-align: center;
+}
+#sayings {
+	font-size: 23px;
+	font-weight: bold;
+	color: #f05715;
+}
+#author {
+	padding: 5px 10px 5px 10px;
+	text-align: right;
+	text-transform: italic;
+	color: #772434;
+}
+#quotes {
+	float: right;
+}
